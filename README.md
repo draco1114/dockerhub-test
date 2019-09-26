@@ -1,8 +1,4 @@
 # dockerhub-test
-Docker Test
-
-Just a placeholder
+Docker Hub Test
 
 Updated on: 09 26 2019
-
-Notification test Part Deux
